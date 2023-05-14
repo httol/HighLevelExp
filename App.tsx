@@ -6,7 +6,7 @@ import CheckUpdates from "./src/CheckUpdates";
 export default function App() {
   return (
     <View style={styles.container}>
-      <Text>Open up App.tsx to start working on your app!</Text>
+      <Text>Tongtong,Open up App.tsx to start working on your app!</Text>
       <Text>{apiUrl}</Text>
       <CheckUpdates />
       <StatusBar style="auto" />
