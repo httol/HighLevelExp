@@ -5,7 +5,7 @@ import { apiUrl } from "./config/ServerConfig";
 export default function App() {
   return (
     <View style={styles.container}>
-      <Text>Hi Tom, Open up App.tsx to start working on your app!</Text>
+      <Text>Hi Tom, This is an Expo App, Open up App.tsx to start working on your app!</Text>
       <Text>{apiUrl}</Text>
       <StatusBar style="auto" />
     </View>
