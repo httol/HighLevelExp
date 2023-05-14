@@ -35,6 +35,14 @@
       "eas": {
         "projectId": "df664d31-81c3-4aeb-bf45-e9eb631ec181"
       }
-    }
+    },
+    "plugins": [
+      [
+        "expo-updates",
+        {
+          "username": "dingjianqun"
+        }
+      ]
+    ]
   }
 }
